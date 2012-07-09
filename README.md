@@ -1,3 +1,5 @@
+Production branch for stage purposes.
+
 A jQuery Mobile theme inspired by Holo Light for Android 4.0
 -------------------------------------------------------------
 
